@@ -1,0 +1,58 @@
+body {
+  background-color: #f5cd79;
+  font-family: 'Poppins', sans-serif;
+}
+section {
+  box-shadow:
+  display: block;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:white;
+  padding: 15px;
+  max-width:500px;
+  border-radius: 5px;
+  -webkit-box-shadow: 4px 8px 46px -12px rgba(20,20,20,1);
+-moz-box-shadow: 4px 8px 46px -12px rgba(20,20,20,1);
+box-shadow: 4px 8px 46px -12px rgba(20,20,20,1);
+}
+
+section h1 {
+  font-size: 20px;
+}
+
+header {
+  background-image: url("https://i.pinimg.com/564x/fc/f6/90/fcf690f5eb8cced3c820757b713ad971.jpg");
+  background-size: cover;
+  height: 90px;
+  border-radius: 3px;
+}
+div {
+  margin: 10px;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+h2 {
+  text-align: center;
+}
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  transform: translateY(-50%);
+  border: 2px solid white;
+}
+
+li {
+  margin-top: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
